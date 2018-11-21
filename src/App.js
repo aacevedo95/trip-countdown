@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <br />
-
+        {console.log('test')}
         <h3 className="title">Cafilornia Bois, we almost there.</h3>
         <h3 className="title">Jan 11, 2019.</h3>
         <Countdown date="2019-01-11" />
