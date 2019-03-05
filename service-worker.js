@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/trip-countdown/precache-manifest.bb95bdbe27a6d610c4f23b36e6b93db3.js"
+  "/trip-countdown/precache-manifest.b20e28739223e5798d8aa2c2999fb388.js"
 );
 
 workbox.clientsClaim();
